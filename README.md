@@ -172,4 +172,14 @@ Não usa dados de trânsito em tempo real
 
 K-Means depende do valor de k (número de entregadores)
 
+💡 8. Melhorias Futuras
+
+Usar APIs de trânsito (Google Maps / Here)
+
+Aplicar Algoritmos Genéticos para otimização global
+
+Testar DBSCAN para clustering dinâmico
+
+Usar Reinforcement Learning para rotas em tempo real
+
 Grafo estático
