@@ -1,0 +1,5 @@
+source,target,weight,src_lat,src_lon,tgt_lat,tgt_lon
+Restaurante,Centro,3,-23.5505,-46.6333,-23.5510,-46.6345
+Restaurante,BairroA,8,-23.5505,-46.6333,-23.5480,-46.6350
+Centro,BairroB,2,-23.5510,-46.6345,-23.5525,-46.6360
+BairroA,BairroB,4,-23.5480,-46.6350,-23.5525,-46.6360

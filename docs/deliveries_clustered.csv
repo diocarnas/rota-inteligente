@@ -1,0 +1,5 @@
+order_id,lat,lon,notes,cluster
+1,-23.5512,-46.634,cliente A,1
+2,-23.5495,-46.6355,cliente B,0
+3,-23.552,-46.6358,cliente C,1
+4,-23.55,-46.6338,cliente D,0
